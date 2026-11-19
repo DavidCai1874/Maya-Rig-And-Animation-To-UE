@@ -2,3 +2,5 @@ AGENTS.md
 TODO.md
 doc/
 test/
+__pycache__/
+*.py[cod]
